@@ -1,0 +1,17 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+mailenv/
+
+# OAuth secrets and tokens
+credentials.json
+token.json
+
+# Daily run markers
+reward_last_run.txt
+slot_last_run.txt
+
+# Logs
+*.log
